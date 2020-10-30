@@ -24,4 +24,4 @@ Plebiscito 2020 de Chile. Resultados por mesa y otros.
 
 ## Otros
 
-- Autor: [@gdiazc](twitter.com/gdiazc)
+- Autor: [@gdiazc](https://www.twitter.com/gdiazc)
